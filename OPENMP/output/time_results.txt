@@ -1,0 +1,14 @@
+ 
+OPENMP Laser Simulation times: 2019-12-05.12:25:19
+----------------------------
+Hardware: Core i9 9900K, 16 GB 2400 MHz, NVIDIA GTX 1050 TI
+Software: Linux Mint 19.2 
+
+(Cell Side)
+
+400:  0m0,174s
+512:  0m0,304s
+1024: 0m1,483s
+2048: 0m11,311s
+4096: 0m50,515s
+8192: 3m26,539s

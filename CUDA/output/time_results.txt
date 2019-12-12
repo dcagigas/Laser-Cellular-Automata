@@ -1,0 +1,13 @@
+ 
+CUDA Laser Simulation times: 2019-12-05.12:25:19
+----------------------------
+Hardware: Core i9 9900K, 16 GB 2400 MHz, NVIDIA GTX 1050 TI
+Software: Linux Mint 19.2 
+
+(Cell Side)
+
+400: 0m0,373s
+512: 0m0,455s
+1024: 0m1,464s
+2048: 0m5,578s
+4096: 0m22,075s
