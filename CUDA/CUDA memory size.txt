@@ -20,5 +20,5 @@ TOTAL: (32+16+8*1000+8*1000+SIDE*SIDE*2+
 65536:  128849066928 B = 122880,045822144 MB = 120 GB
 131072: 515396123568 B = 491520,045822144 MB = 480 GB
 
-NOTA: using a NVIDIA GTX 1050 ti with 4 GB de RAM, and SIDE 8192 there is an execution "cudaMalloc" error.
+COMMENT: using a NVIDIA GTX 1050 ti with 4 GB de RAM, and SIDE 8192 there is an execution "cudaMalloc" error.
 
