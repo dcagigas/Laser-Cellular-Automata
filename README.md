@@ -18,5 +18,5 @@ Two solutions are provided:
   - OPENMP400, OPENMP512, ... OPENMP8192 folders have the source, makefile and input files for each experiment. Here is where result timing and simulation behaviour files are created. This is a difference with the CUDA solution.
   - Makefiles need the laseracv10_omp_optim.cpp and pcg_basic.cpp source files, and the pcg_basic.h header file. 
   - Scripts run_compilations.sh, run_erase_compilations.sh and run_simulations.sh automate the compilation and launch of all the experiments. 
-  
-  * OpenMP_NOT_OPTIMIZED: source code that can be compiled in a Linux machine. OpenMP libraries and g++ compiler are neccesary. It is a previous version of OpenMP source code that is not optimized. Execution times are higher and the 8192 SIDE experiment can not be compiled due to integer overflow.
+
+* OpenMP_NOT_OPTIMIZED: source code that can be compiled in a Linux machine. OpenMP libraries and g++ compiler are neccesary. It is a previous version of OpenMP source code that is not optimized. Execution times are higher and the 8192 SIDE experiment can not be compiled due to integer overflow.
