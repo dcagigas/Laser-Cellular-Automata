@@ -1,6 +1,12 @@
 # Laser-Cellular-Automata
 Source code for the simulations of laser dynamics
 
+This code is related to paper:
+
+Cagigas-Muñiz, D.; Diaz-del-Rio, F.; López-Torres, M.R.; Jiménez-Morales, F.; Guisado, J.L. 
+Developing Efficient Discrete Simulations on Multicore and GPU Architectures. 
+Electronics 2020, 9, 189. 
+
 Two solutions are provided:
 
 * CUDA: source code that can be compiled in a Linux machine with a NVIDIA compatible card. CUDA libraries and compiler are neccesary. OpenCV libraries are also needed if any video output is required. 
