@@ -5,7 +5,7 @@ This code is related to paper:
 
 Cagigas-Muñiz, D.; Diaz-del-Rio, F.; López-Torres, M.R.; Jiménez-Morales, F.; Guisado, J.L. 
 Developing Efficient Discrete Simulations on Multicore and GPU Architectures. 
-Electronics 2020, 9, 189. 
+Electronics 2020, 9, 189. https://doi.org/10.3390/electronics9010189 
 
 Two solutions are provided:
 
